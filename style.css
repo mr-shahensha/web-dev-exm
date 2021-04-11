@@ -1,0 +1,25 @@
+
+*{
+    text-transform: capitalize;
+}
+#navbar{
+    background-color: #f9f1f3;
+}
+#navbar p{
+    padding-top: 30px;
+ font-size: 18px;
+}
+.row{
+    text-align: right;
+}
+#body{
+    background-color: #ffe9ef;
+}
+#body h1{
+    padding-top: 50px;
+    text-align: left;
+    font-size: 50px;
+}
+.btn{
+    border: rgb(107, 105, 105) solid !important;
+}
